@@ -1,0 +1,35 @@
+.AllContent {
+    padding-inline: 200px;
+    padding-block: 10px;
+}
+
+.Title {
+    font-weight: 800;
+    font-size: 60px;
+    text-align: center;
+    background: -webkit-linear-gradient(#030301, #a90fbe);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-block: 30px;
+
+}
+
+@media (max-width: 1500px) {
+    .Title {
+        font-size: 40px;
+    }
+
+    .AllContent {
+        padding-inline: 100px;
+    }
+}
+
+@media (max-width: 900px) {
+    .Title {
+        font-size: 30px;
+    }
+
+    .AllContent {
+        padding-inline: 50px;
+    }
+}

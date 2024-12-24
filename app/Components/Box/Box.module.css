@@ -1,0 +1,72 @@
+.Box {
+    width: calc(100% / 3 - 10px);
+    height: 600px;
+    overflow: hidden;
+    box-shadow: var(--boxShadow);
+    background: #000;
+}
+
+.Box iframe {
+    height: 315px;
+    width: 100%;
+}
+
+.BoxContent {
+    padding: 20px;
+}
+
+.BoxContent h6 {
+    font-weight: 700;
+    font-size: 18px;
+    width: 15ch;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    margin-bottom: 10px;
+}
+
+.BoxContent p {
+    font-size: 14px;
+    color: #ccc;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 5;
+    line-clamp: 5;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.BoxContent .Btns {
+    margin-block: 20px;
+    display: flex;
+    gap: 10px;
+}
+
+.Btns a {
+    width: max-content;
+    background: var(--main);
+    color: #fff;
+    padding: 8px 17px;
+}
+
+@media(max-width:1320px) {
+    .BoxContent .Btns {
+        margin-block: 20px;
+        display: grid !important;
+        gap: 10px;
+    }
+}
+
+@media(max-width:910px) {
+    .Box {
+        flex-basis: calc(50% - 10px);
+    }
+
+}
+
+@media(max-width:700px) {
+    .Box {
+        flex-basis: calc(100%);
+    }
+
+}
