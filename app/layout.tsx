@@ -4,6 +4,7 @@ import "./globals.css";
 
 import Link from "next/link";
 
+import { Analytics } from "@vercel/analytics/react"
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
@@ -18,6 +19,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <Analytics/>
       <body className={inter.className}>
         {children}
         <div className='Footer'>
