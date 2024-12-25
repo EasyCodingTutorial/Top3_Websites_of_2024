@@ -16,11 +16,11 @@ Whether you're here to sharpen your frontend skills or get inspired by modern UI
 
 ## Clone Showcase Table
 
-| **Platform**        | **Description**                                                                                 | **Live Demo**                                | **Source Code**                                |
+| **Platform**        | **Description**                                                                                 | **Watch Video**                                | **Source Code**                                |
 |----------------------|-------------------------------------------------------------------------------------------------|---------------------------------------------|------------------------------------------------|
-| **Hulu Clone**       | A feature-rich Hulu clone with advanced filtering and content discovery.                        | [Demo](https://www.youtube.com/watch?v=4U_0rWB6wgo)    | [View Code](https://github.com/EasyCodingTutorial/hulu) |
-| **Amazon Prime Clone** | A stunning Amazon Prime clone with seamless navigation, video streaming, and subscription features. | [Demo](https://youtu.be/z4RNIfaR_QM?feature=shared)   | [View Code](https://github.com/EasyCodingTutorial/AmazonPrimeClone)|
-| **Netflix Clone**    | A polished Netflix clone featuring smooth video playback, profiles, and recommendations.        | [Demo](https://youtu.be/U8kBOCHqmKs?feature=shared) | [View Code](https://github.com/EasyCodingTutorial/netflixClone)|
+| **Hulu Clone**       | A feature-rich Hulu clone with advanced filtering and content discovery.                        | [Video](https://www.youtube.com/watch?v=4U_0rWB6wgo)    | [View Code](https://github.com/EasyCodingTutorial/hulu) |
+| **Amazon Prime Clone** | A stunning Amazon Prime clone with seamless navigation, video streaming, and subscription features. | [Video](https://youtu.be/z4RNIfaR_QM?feature=shared)   | [View Code](https://github.com/EasyCodingTutorial/AmazonPrimeClone)|
+| **Netflix Clone**    | A polished Netflix clone featuring smooth video playback, profiles, and recommendations.        | [Video](https://youtu.be/U8kBOCHqmKs?feature=shared) | [View Code](https://github.com/EasyCodingTutorial/netflixClone)|
 
 ---
 
