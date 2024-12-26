@@ -53,9 +53,10 @@ Thank you for checking out this repository! If you find it helpful, please give 
 ## 📹 Video Tutorial For Streaming Platforms
 Check out the full tutorial on YouTube:  
 [![Watch The Full Video](https://img.youtube.com/vi/lP_HfZgghUE/maxresdefault.jpg)](https://www.youtube.com/watch?v=lP_HfZgghUE)
-
-
+ 
 ## 📹 Video Tutorial For Gaming Websites
+Check out the full tutorial on YouTube:  
+[![Watch The Full Video](https://img.youtube.com/vi/4J0Fo-lEEV8/maxresdefault.jpg)](https://www.youtube.com/watch?v=4J0Fo-lEEV8)
 
 
 ## 📹 Video Tutorial For MERN Projects
