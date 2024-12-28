@@ -121,23 +121,19 @@ Check out the full tutorial on YouTube:
 Welcome to this repository! 🚀  
 This project showcases **Top 3 MERN APPLICATION of 2024**.
 
-These projects focus on building:
-- Sleek and responsive UIs
-- Login and Sign-Up pages
-- Clean, maintainable, and scalable codebases
-
+Top 3 MERN Stack Applications of 2024! In this we’ll tackle three exciting, real-world projects step-by-step, covering everything from creating dynamic frontends with React to building powerful backends with Node.js, Express, and MongoDB. Along the way, you’ll master user authentication, state management, API integrations, and more. Whether you're a beginner looking to boost your MERN stack skills or a developer seeking fresh ideas for your portfolio, this guide will help you create cutting-edge applications that stand out in 2024!
 
 Whether you're here to sharpen your frontend skills or get inspired by modern UI design, these clones are perfect for you! 💻✨
 
 ---
 
-## Gaming Sites Showcase Table
+## MERN Sites Showcase Table
 
 | **Platform**        | **Description**                                                                                 | **Watch Video**                                | **Source Code**                                | **Live Demo**                                    |
 |----------------------|-------------------------------------------------------------------------------------------------|---------------------------------------------|------------------------------------------------|-------------------------------------------------|
-| **Gaming websites1**       | A feature-rich Gaming Website with advanced Features.                        | [Video](https://youtu.be/Fe0dkj_SWzA?feature=shared)    | [View Code](https://github.com/EasyCodingTutorial/gamewebsite) | [Demo](https://gamewebsite-woad.vercel.app/)     |
-| **Gaming website2** | A feature-rich Gaming Website with advanced Features | [Video](https://youtu.be/hQLqfylu2fU?feature=shared)   | [View Code](https://github.com/EasyCodingTutorial/shooting_game) | [Demo](https://shooting-game-lac.vercel.app/) |
-| **Gaming websites3**    | A feature-rich Gaming Website with advanced Features     | [Video](https://www.youtube.com/watch?v=hQLqfylu2fU) | [View Code](https://github.com/EasyCodingTutorial/game) | [Demo](https://game-seven-pied.vercel.app/) |
+| **MERN APP1**       | A feature-rich MERN Website with advanced Features.                        | [Video](https://youtu.be/M3wZphUIYd4?feature=shared)    | [View Code]() | [Not Available]()     |
+| **MERN APP2** | A feature-rich MERN Website with advanced Features | [Video](https://youtu.be/1FlJVPzW3Dg?feature=shared)   | [View Code](https://github.com/EasyCodingTutorial/CRUD_API_ROUTES) | [Not Available]() |
+| **MERN APP3**    | A feature-rich MERN Website with advanced Features     | [Video](https://youtu.be/FGMh0OtM0UA?feature=shared) | [View Code](https://github.com/EasyCodingTutorial/MERN) | [Not Available]() |
 
 ---
 
